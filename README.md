@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 
 <!--
 **jjmmll0727/jjmmll0727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
