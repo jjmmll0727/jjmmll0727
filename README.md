@@ -1,4 +1,4 @@
-### 👋
+
 
 <!--
 **jjmmll0727/jjmmll0727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=mapping%20space&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=mapping%20space&fontSize=70)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjmmll0727&show_icons=true&theme=radical)
